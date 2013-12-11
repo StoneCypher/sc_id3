@@ -9,7 +9,9 @@ http://bensadeghi.com/decision-trees-julia/
 
 http://en.wikipedia.org/wiki/ID3_algorithm
 
-Polemic
--------
 
-MIT Licensed because viral licenses and language modification are evil.  Free is only free if it's free to everyone.
+
+Polemic :neckbeard:
+-------------------
+
+`sc_id3` is MIT licensed, because viral licenses and language modification are evil.  Free is ***only*** free if it's free to everyone.
